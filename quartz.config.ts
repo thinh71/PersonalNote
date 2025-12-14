@@ -17,7 +17,7 @@ const config: QuartzConfig = {
       // domain: "thinh71.goatcounter.com",
     },
     locale: "en-US",
-    baseUrl: "https://thinh71.github.io/PersonalNote/",
+    baseUrl: "https://thinh71.github.io/personalnote/",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
