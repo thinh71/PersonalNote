@@ -1,4 +1,15 @@
-#Linux_programming
+---
+title: Learning about toolchain
+type: note
+domain: Linux Programming
+tags:
+  - Linux_programming
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
+
 ### 1. Tổng quan về toolchain
 
 **Toolchain** là một tập hợp các công cụ cần thiết để chuyển đổi mã nguồn (source code) thành tệp thực thi (executable) có thể chạy được trên một thiết bị cụ thể (target device).

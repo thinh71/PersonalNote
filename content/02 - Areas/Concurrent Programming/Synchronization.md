@@ -1,3 +1,14 @@
+---
+title: Synchronization
+type: note
+domain: Concurrent Programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 **Synchronization** - mô tả hai sự việc xảy ra tại cùng một thời điểm. 
 
 Trong lĩnh vực khoa học máy tính, **synchronization** được sử dụng để mô tả mối quan hệ về mặt thời gian xảy ra giữa các sự kiện, một sự kiện có thể xảy ra trước, trong hoặc sau một sự kiện khác.

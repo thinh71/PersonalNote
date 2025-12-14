@@ -1,4 +1,14 @@
-[[C pointer]]
+---
+title: Pointer Arithmetic
+type: note
+domain: C programming
+tags:
+  - C_Pointer
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 
 Pointers can be ***incremented*** or ***decremented***, and arithmetic operations can be performed on them. This is especially useful when dealing with arrays.  
 

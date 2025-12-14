@@ -1,3 +1,15 @@
+---
+title: Parallel Programming
+type: note
+domain: Parallel Programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
+
 # 1. Parallel programming là gì?
 
 Parallel programming, hay parallel computing, là một quá trình chia các vấn đề tính toán lớn thành các nhiều bài toán nhỏ có thể giải quyết đồng thời bởi nhiều processor. 

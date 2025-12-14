@@ -1,3 +1,14 @@
+---
+title: Mô hình thực thi
+type: note
+domain: Concurrent Programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 ## 1. Mô hình tuần tự
 Với mô hình này, máy tính thực thi các câu lệnh một cách tuần tự. Nếu một câu lệnh đến trước thì nó sẽ được thực thi trước.  
 

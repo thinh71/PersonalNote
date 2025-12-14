@@ -1,3 +1,15 @@
+---
+title: Performance requirements
+type: note
+domain: Software Engineer
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
+
 Performance requirements là một loại requirement thuộc kiểu Non-functional requirements.
 Performance requirements quan tâm đến hiệu suất, khả năng làm việc của hệ thống đối với các yêu cầu đầu vào cụ thể. 
 

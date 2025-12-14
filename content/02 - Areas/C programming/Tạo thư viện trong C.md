@@ -1,4 +1,14 @@
-
+---
+title: Tạo thư viện trong C
+type: note
+domain: C programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 Sau một thời gian làm việc với ngôn ngữ C, chúng ta chắc hẳn sẽ quen thuộc với các thư viện chuẩn của C như **`stdio.h`**, **`string.h`**, hay **`math.h`**. Tuy nhiên, có bao giờ bạn tự hỏi làm thế nào chúng ta có thể tạo ra một thư viện cho riêng mình? 
 
 Trong bài viết này, hãy cùng nhau tìm hiểu cách tạo một thư viện cho riêng mình bằng ngôn ngữ C và cách sử dụng thư viện được tạo.

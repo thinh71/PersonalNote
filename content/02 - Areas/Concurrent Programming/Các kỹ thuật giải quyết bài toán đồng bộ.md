@@ -1,3 +1,14 @@
+---
+title: Các kỹ thuật giải quyết bài toán đồng bộ
+type: note
+domain: Concurrent Programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 ## 1. Giải pháp cho bài toán serialization
 Như đã đề cập ở [[Synchronization]], bài toán về **Serialization** yêu cầu một sự kiện A phải được thực hiện trước sự kiện B, nói một cách khác **Serialization** quan tâm đến thứ tự thực hiện của các sự kiện trong một chương trình.
 

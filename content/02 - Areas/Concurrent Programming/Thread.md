@@ -1,3 +1,15 @@
+---
+title: Thread
+type: note
+domain: Concurrent Programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
+
 **I. Thread là gì?**
 
 **Thread** (luồng) là đơn vị thực thi nhỏ nhất trong một tiến trình ([[Process|process]]). 

@@ -1,4 +1,14 @@
-[[C programming]]
+---
+title: Static and Dynamic Libraty
+type: note
+domain: C programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 
 **I. Static Library (`.a`)**
 

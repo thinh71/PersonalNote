@@ -1,4 +1,14 @@
-[[C pointer]]
+---
+title: Declaration
+type: note
+domain: C programming
+tags:
+  - C_Pointer
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 
 To declare a pointer variable, you use the `*` symbol after the data type
 

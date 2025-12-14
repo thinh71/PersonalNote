@@ -1,3 +1,15 @@
+---
+title: Semaphores
+type: note
+domain: Concurrent Programming
+tags:
+  - common
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
+
 > Trong lĩnh vực phần mềm, **semaphore** là một ***data structure*** được dùng để giải quyết các vấn đề liên quan đến **synchronization**. 
 
 ### I. Definition

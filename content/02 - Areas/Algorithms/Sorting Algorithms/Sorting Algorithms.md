@@ -1,3 +1,14 @@
+---
+title: Sorting Algorithms
+type: note
+domain: Algorithms
+tags:
+  - sorting
+level: beginner
+status: draft
+created: 2025-03-12
+updated: 2025-03-12
+---
 | Algorithm      | Average Time Complexity | Worst-case Time Complexity | Best-case Time Complexity | Space Complexity | Stability | Suitable For                         | Remarks                                               |
 | -------------- | ----------------------- | -------------------------- | ------------------------- | ---------------- | --------- | ------------------------------------ | ----------------------------------------------------- |
 | Bubble Sort    | O(n^2)                  | O(n^2)                     | O(n)                      | O(1)             | Stable    | Small datasets, nearly sorted arrays | Simple implementation, inefficient for large datasets |

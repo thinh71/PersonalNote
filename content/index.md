@@ -9,21 +9,17 @@ tags: [public]
 
 ## 🗂 Knowledge Areas
 
-### 🐧 Linux
-- [[linux]]  
-  Process, memory, filesystem, kernel notes
+### 🐧 Linux Programming
+
 
 ### 💻 C Programming
-- [[c]]  
-  Pointer, memory model, call graph, embedded C
+
 
 ### ⏱ RTOS & Embedded
-- [[rtos]]  
-  Scheduling, IPC, timing, driver notes
+
 
 ### 🐳 Containers & Tooling
-- [[docker]]  
-  Docker, build systems, dev workflow
+
 
 ---
 
