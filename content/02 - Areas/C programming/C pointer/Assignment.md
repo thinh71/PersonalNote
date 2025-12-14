@@ -11,7 +11,7 @@ updated: 2025-03-12
 ---
 Pointers can be assigned the address of another variable using the address-of operator `&`.
 
-```C
+```c
 int num = 10;
 int *ptr = &num; // ptr now points to the memory address of num
 ```

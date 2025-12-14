@@ -12,7 +12,7 @@ updated: 2025-03-12
 
 Pointers can be ***incremented*** or ***decremented***, and arithmetic operations can be performed on them. This is especially useful when dealing with arrays.  
 
-```C
+```c
 int arr[5] = {1, 2, 3, 4, 5};
 int *ptr = arr; // ptr points to the first element of the array
 

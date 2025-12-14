@@ -12,7 +12,7 @@ updated: 2025-03-12
 
 Pointers can be assigned a special value `NULL` to indicate that they are not pointing to any valid memory location.
 
-```C
+```c
 int *ptr = NULL; // ptr is a NULL pointer
 ```
 

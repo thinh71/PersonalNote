@@ -27,7 +27,7 @@ Giả sử chúng ta muốn tạo một thư viện giúp chúng ta thực hiệ
 
 >[!EXAMPLE]- Tạo danh sách các hàm mà thư viện cung cấp
 Tạo một tệp có phần mở rộng **`.h`** (ví dụ: **`mylib.h`**). Tệp này khai báo các hàm mà thư viện có thể cung cấp. Trong **`mylib.h`**, chúng ta sẽ khai báo các hàm **`add`** và **`minus`** tương ứng với hàm thực hiện phép cộng và phép trừ.
-> ```C 
+> ```c 
 > // mylib.h
 > 
 > #ifndef MYLIB_H
@@ -42,7 +42,7 @@ Tạo một tệp có phần mở rộng **`.h`** (ví dụ: **`mylib.h`**). T�
 
 > [!EXAMPLE]- Xây dựng định nghĩa cho các hàm
 > Tạo một tệp có phần mở rộng **`.c`** (ví dụ: **`mylib.c`**). Tệp này chứa mã định nghĩa cho các hàm được khai báo trong **`mylib.h`**.
-> ```C
+> ```c
 > // mylib.c
 > #include "mylib.h"
 > 
@@ -84,7 +84,7 @@ Tạo một tệp có phần mở rộng **`.h`** (ví dụ: **`mylib.h`**). T�
 Bây giờ chúng ta đã có thư viện tùy chỉnh của mình, để sử dụng thư viện này trong các chương trình khác, chúng ta có thể thực hiện như sau:
 1. Include the header file
 Để sử dụng thư viện đã tạo, chúng ta cần thêm header file (**`mylib.h`**) vào trong mã nguồn của chương trình cần sử dụng thư viện này. 
-```C
+```c
 // myapp.c
 
 #include <stdio.h>

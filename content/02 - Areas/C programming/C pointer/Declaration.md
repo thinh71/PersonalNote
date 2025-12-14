@@ -12,6 +12,6 @@ updated: 2025-03-12
 
 To declare a pointer variable, you use the `*` symbol after the data type
 
-```C
+```c
 int *ptr; // Declaration of an integer pointer
 ```

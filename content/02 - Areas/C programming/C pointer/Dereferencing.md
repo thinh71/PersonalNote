@@ -12,7 +12,7 @@ updated: 2025-03-12
 
 To access the value stored at the memory address pointed by a pointer, you use the dereference operator `*`
 
-```C
+```c
 int value = *ptr; // value now contains the value stored at the memory address pointed bt ptr
 ```
 
