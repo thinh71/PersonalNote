@@ -3,15 +3,6 @@ title: Home
 tags: [public]
 ---
 
----
-title: Analytics
----
-
-<iframe
-  src="https://thinh71.goatcounter.com"
-  style="width:100%; height:800px; border:none;">
-</iframe>
-
 # 👋 Welcome
 
 ---
