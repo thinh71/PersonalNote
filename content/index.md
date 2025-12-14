@@ -32,3 +32,6 @@ tags: [public]
 
 ## 🔗 External
 - GitHub: https://github.com/thinh71
+
+<script data-goatcounter="https://thinh71.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>

@@ -14,7 +14,7 @@ const config: QuartzConfig = {
     enablePopovers: true,
     analytics: {
       provider: "goatcounter",
-      domain: "thinh71.goatcounter.com",
+      // domain: "thinh71.goatcounter.com",
     },
     locale: "en-US",
     baseUrl: "https://thinh71.github.io/PersonalNote/",
