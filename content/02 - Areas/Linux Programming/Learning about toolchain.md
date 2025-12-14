@@ -4,6 +4,7 @@ type: note
 domain: Linux Programming
 tags:
   - Linux_programming
+  - stable
 level: beginner
 status: draft
 created: 2025-03-12
